@@ -1,0 +1,62 @@
+CS:藍色行動密技
+
+
+用以下命令行參數模式開始游戲︰
+
+　　"C:\GameFolder\bshift.exe" -console
+
+　　以后就可以在游戲中按下控製台並“~”開啟控製台。注意︰在加載地圖或者游戲之前，你都必須首先開啟輸放置這些入“"sv_cheats 1"”（記得前后要包括引號"哦）。或者你也可以在“C:\GameFolder\config.cfg”文件中命令，這樣下次進入游戲的時候便會自動設置上。
+
+　　"god"　無敵模式
+
+　　"noclip"　穿牆模式
+
+　　"impulse 101"　獲得所有武器
+
+　　"sv_gravity x" 　設定重力（X=800時為游戲默認重力，而X=0時便是沒有重力）
+
+　　，但是增加后你會跳得"sv_accelerate x"　設定空氣加速度（這樣你可以在跳躍時移動得更多，默認的為10更兔子一樣﹗）
+
+　　"skill x"　調整難度（1最容易，3最難）
+
+　　"map x"　直接選關（X可以是以下列表中的任意地圖）
+
+　　地圖列表︰
+　　ba_canal1
+　　ba_canal1b
+　　ba_canal2
+　　ba_canal3
+　　ba_elevator
+　　ba_hazard1
+　　ba_hazard2
+　　ba_hazard3
+　　ba_hazard4
+　　ba_hazard5
+　　ba_hazard6
+　　ba_maint
+　　ba_outro
+　　ba_power1
+　　ba_power2
+　　ba_security1
+　　ba_security2
+　　ba_teleport1
+　　ba_teleport2
+　　ba_tram1
+　　ba_tram2
+　　ba_tram3
+　　ba_xen1
+　　ba_xen2
+　　ba_xen3
+　　ba_xen4
+　　ba_xen5
+　　ba_xen6
+　　ba_yard1
+　　ba_yard2
+　　ba_yard3
+　　ba_yard3a
+　　ba_yard3b
+　　ba_yard4
+　　ba_yard4a
+　　ba_yard5
+　　ba_yard5a
+
